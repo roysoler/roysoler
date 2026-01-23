@@ -1,9 +1,19 @@
-## Hi there 👋
+## Hi I am Rodrigo Lopez Soler 👋
+
+MSc Mathemtatical Trading and Finance at Bayes Business School   
+BSc Physics Engineer at UASLP
+
+📊 Interests: Asset Pricing, Derivatives, Stochastic Models  
+💻 Python | NumPy | pandas | statsmodels
+
+### Selected Projects
+- 📈 Pairs Trading via Cointegration
+- 🎲 Monte Carlo Option Pricing
+- 📉 GARCH Volatility Modeling
 
 <!--
 **roysoler/roysoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
