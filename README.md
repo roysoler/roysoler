@@ -7,9 +7,8 @@ BSc Physics Engineer at UASLP
 💻 Python | NumPy | pandas | statsmodels
 
 ### Selected Projects
-- 📈 Pairs Trading via Cointegration
+- 🧠 Brain Tumor Segmentation and Encription of the Region of Interest 
 - 🎲 Monte Carlo Option Pricing
-- 📉 GARCH Volatility Modeling
 
 <!--
 **roysoler/roysoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
