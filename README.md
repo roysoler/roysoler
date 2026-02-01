@@ -8,7 +8,7 @@ BSc Physics Engineer at UASLP
 
 ### Selected Projects
 - 🧠 Brain Tumor Segmentation and Encription of the Region of Interest 
-- 🎲 Monte Carlo Option Pricing
+- 🎲 MCS and Black-Scholes for Option Pricing
 
 <!--
 **roysoler/roysoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
