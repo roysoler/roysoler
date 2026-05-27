@@ -7,8 +7,9 @@ BSc Physics Engineer at UASLP
 💻 Python | NumPy | pandas | statsmodels
 
 ### Selected Projects
-- 🧠 Econometric Analysis
+- 🧠 Multi Asset Econometric Analysis
 - 🎲 MCS and Black-Scholes for Option Pricing
+- Enhancing a standard Momentum Factor using Lou and Polk
 
 <!--
 **roysoler/roysoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
