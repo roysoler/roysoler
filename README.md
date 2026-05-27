@@ -7,7 +7,7 @@ BSc Physics Engineer at UASLP
 💻 Python | NumPy | pandas | statsmodels
 
 ### Selected Projects
-- 🧠 Brain Tumor Segmentation and Encription of the Region of Interest 
+- 🧠 Econometric Analysis
 - 🎲 MCS and Black-Scholes for Option Pricing
 
 <!--
